@@ -12,7 +12,7 @@ namespace WebApiDemo.Models
         [Required]
         [MaxLength(100)]
         [Column("name")]
-        public string Name { get; set; }
+        public required string Name { get; set; }
         [Column("CreatedAt")]
         public DateTime CreatedAt { get; set; }
         [Column("UpdatedAt")]
@@ -26,7 +26,7 @@ namespace WebApiDemo.Models
         [Required]
         [MaxLength(50)]
         [Column("name")]
-        public string Name { get; set; }
+        public required string Name { get; set; }
         [Column("CreatedAt")]
         public DateTime CreatedAt { get; set; }
         [Column("UpdatedAt")]
@@ -40,9 +40,9 @@ namespace WebApiDemo.Models
         [Required]
         [MaxLength(100)]
         [Column("name")]
-        public string Name { get; set; }
+        public required string Name { get; set; }
         [Column("description")]
-        public string Description { get; set; }
+        public required string Description { get; set; }
         [Column("CreatedAt")]
         public DateTime CreatedAt { get; set; }
         [Column("UpdatedAt")]

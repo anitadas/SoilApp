@@ -207,3 +207,5 @@ C:\Users\kk825\Desktop\SoilApp\WebApiDemo\obj\Debug\net9.0\refint\WebApiDemo.dll
 C:\Users\kk825\Desktop\SoilApp\WebApiDemo\obj\Debug\net9.0\WebApiDemo.pdb
 C:\Users\kk825\Desktop\SoilApp\WebApiDemo\obj\Debug\net9.0\WebApiDemo.genruntimeconfig.cache
 C:\Users\kk825\Desktop\SoilApp\WebApiDemo\obj\Debug\net9.0\ref\WebApiDemo.dll
+C:\Users\kk825\Desktop\SoilApp\WebApiDemo\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\kk825\Desktop\SoilApp\WebApiDemo\bin\Debug\net9.0\Sprache.dll
